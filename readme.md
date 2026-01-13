@@ -3,7 +3,7 @@
 ## 0.1.1 管理画面の追加修正。項目の並び替えに対応
 
 <p align="left">
-  <img src="screenshots/病院情報管理一覧.png" width="40%" />
+  <img src="screenshots/病院情報管理一覧.png" width="60%" />
 </p>
 
 QR コードで病院を登録し、  
@@ -21,13 +21,13 @@ PHP（XAMPP）＋ React（Vite）で構築し、
 - 病院毎に追加したい連絡先を登録可能。
 
 <p align="left">
-  <img src="screenshots/項目登録画面.png" width="30%" />
+  <img src="screenshots/項目登録画面.png" width="50%" />
 </p>
 
 - 曜日別受付時間・例外日（休診等）に対応
 
 <p align="left">
-  <img src="screenshots/受付時間編集画面.png" width="30%" />
+  <img src="screenshots/受付時間編集画面.png" width="50%" />
 </p>
 
 - 高齢者を想定したシンプルな UI 設計
